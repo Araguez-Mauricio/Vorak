@@ -1,4 +1,4 @@
-# Zona Muerta
+# Vorax
 
 Shooter de zombis en primera persona que corre en el navegador (Three.js r128), todo en un solo archivo: `index.html`.
 
